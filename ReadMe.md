@@ -16,7 +16,7 @@ The project is composed of 5 simple classes :
  - 2 interfaces
  - 2 implementation classes
      - one that you must write from the ground (actually from the interface)
-     - one that where you must fill the blankc in a skeleton 
+     - one where you must fill the blanks in a skeleton
  - 1 test class
  
 The only dependency is JUnit : so it should be very simple to make it run.
